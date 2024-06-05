@@ -6,7 +6,6 @@ SELECT * FROM tbl_habitat;
 SELECT species_name FROM tbl_species WHERE species_order = 3
 
 // question 3
-
 SELECT nutrition_type FROM tbl_nutrition WHERE nutrition_cost <= 600
 
 // question 4
